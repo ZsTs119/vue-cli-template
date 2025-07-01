@@ -227,16 +227,6 @@ npm run build:prod:h5
 - `pre`: 预发布环境
 - `test`: 测试环境
 
-## 👨‍💻 关于作者
-
-```javascript
-const author = {
-  nickName: "ZsTs119",
-  email: "zsts@foxmail.com",
-  site: "https://github.com/ZsTs119",
-};
-```
-
 ## 🤝 贡献
 
 欢迎提交问题或改进建议！
@@ -244,3 +234,9 @@ const author = {
 ## 📄 许可
 
 [MIT](LICENSE)
+
+## 👨‍💻 作者
+
+- ZsTs119
+- Email: zsts@foxmail.com
+- GitHub: https://github.com/ZsTs119
