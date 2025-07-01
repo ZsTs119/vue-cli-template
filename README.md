@@ -1,4 +1,18 @@
-# 🚀 Vue CLI Template
+# vue2-multi-platform-cli
+
+<div align="center">
+  
+![Vue](https://img.shields.io/badge/Vue-2.x-brightgreen)
+![Webpack](https://img.shields.io/badge/Webpack-4.x-blue)
+![Element UI](https://img.shields.io/badge/Element--UI-2.x-409eff)
+![Vant](https://img.shields.io/badge/Vant-2.x-4fc08d)
+![Vuex](https://img.shields.io/badge/Vuex-3.x-yellow)
+![Multi-Platform](https://img.shields.io/badge/Multi--Platform-H5%2FPC-orange)
+![Auto-Import](https://img.shields.io/badge/Auto--Import-Ready-lightblue)
+
+</div>
+
+> **基于 Vue2 的多平台统一开发框架，优化构建配置，同时支持 PC 端和 H5 应用。**
 
 ## 📋 项目概述
 
